@@ -61,7 +61,7 @@ Modern interfaces with clean layouts, strong branding, smooth animations, and hi
 ## 📦 Featured Work
 
 - 🚀 **Exovara Labs Platform** — Custom web development and digital business systems  
-- 📊 **Iterly** — Feedback, roadmap, and changelog platform for builders  
+- 📊 **CueCrew** — Ai production crew platform for podcasting and livestreaming
 - 🧠 **AI Business Tools** — Automation systems for modern companies  
 - 🌐 **Client Websites** — High-converting websites across multiple industries  
 
@@ -71,15 +71,15 @@ Modern interfaces with clean layouts, strong branding, smooth animations, and hi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SylvaDev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E5E7EB" alt="Exovara Labs GitHub stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=SylvaDev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E5E7EB" alt="Exovara Labs GitHub stats" />
 
-<br />
+<br /> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SylvaDev&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=E5E7EB" alt="Exovara Labs GitHub streak" />
 
-<br />
+<!-- <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvaDev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvaDev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" alt="Top languages" /> -->
 
 </div>
 
