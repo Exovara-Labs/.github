@@ -71,7 +71,7 @@ Modern interfaces with clean layouts, strong branding, smooth animations, and hi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sylvadev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E5E7EB" alt="Exovara Labs GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=SylvaDev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E5E7EB" alt="Exovara Labs GitHub stats" />
 
 <br />
 
