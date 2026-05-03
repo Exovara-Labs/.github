@@ -71,15 +71,15 @@ Modern interfaces with clean layouts, strong branding, smooth animations, and hi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Exovara-Labs&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E5E7EB" alt="Exovara Labs GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=SylvaDev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E5E7EB" alt="Exovara Labs GitHub stats" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Exovara-Labs&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=E5E7EB" alt="Exovara Labs GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SylvaDev&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=E5E7EB" alt="Exovara Labs GitHub streak" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exovara-Labs&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvaDev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" alt="Top languages" />
 
 </div>
 
@@ -119,7 +119,7 @@ Let’s build something powerful.
 ## 📬 Contact
 
 - 🌐 Website: https://exovaralabs.com  
-- 📧 Email: info@exovaralabs.com  
+- 📧 Email: support@exovaralabs.com  
 - 🧑‍💻 GitHub: https://github.com/Exovara-Labs  
 
 ---
